@@ -1,0 +1,20 @@
+*For i in range (x)
+
+range (posição inicial, posição final não inclusiva, como a contagem será feita)
+	ex: range(1, 11, 2) -> (1 - posição de inicio, 11 - posição final, para uma antes, ou seja do 0 até o 10, 2 - contagem será de 2 em 2)
+(x) - quantas vezes eu quero que o número seja repetido
+i - variável que começa no 0 (i = 0)
+
+*Print (i, end="") - printar o i, com os caracteres lado a lado
+
+*While <= 10
+	instrução
+	instrução 2
+
+As linhas das duas instruções irão executar 10 vezes
+Mas o while executará uma vez mais (11) como uma instrução falsa
+Todo laço condicional ou não condicional, a instrução que faz a conferência executa uma vez a mais;
+
+* %.2f - para números com casas decimais, delimita quantas casas vão aparecer
+
+* Eval - transforma strings em expressões numéricas/código
